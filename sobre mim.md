@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Vitorkp
 
-<p>Olá! Meu nome é Vitor Kannã, tenho 19 anos e sou do Rio Grande do Sul. Sou apaixonado por tecnologia, design e criatividade. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, onde aprendo a transformar ideias em soluções reais e funcionais.</p>
+<p>Olá! Meu nome é Vitor Kannã, tenho 19 anos e sou do Rio Grande do Sul. Sou apaixonado por tecnologia, design e criatividade. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senacrs, onde aprendo a transformar ideias em soluções reais e funcionais.</p>
  <p>Além de estudar, gosto de compartilhar conhecimento, ajudar colegas e explorar novas tecnologias. Meu objetivo é seguir evoluindo como desenvolvedor, contribuindo para projetos significativos e, quem sabe, inspirar outras pessoas a também se apaixonarem por esse universo.</p>
 <br/>
 <br/>
