@@ -1,8 +1,7 @@
 ## 👩🏻‍💻 Vitorkp
 
-
-Me chamo Vitor Kannã, tenho 19 anos e sou do Rio grande do Sul.
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas e ensino a criar alguns projetos web simples e interessantes
+<p>Olá! Meu nome é Vitor Kannã, tenho 19 anos e sou do Rio Grande do Sul. Sou apaixonado por tecnologia, design e criatividade. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, onde aprendo a transformar ideias em soluções reais e funcionais.</p>
+ <p>Além de estudar, gosto de compartilhar conhecimento, ajudar colegas e explorar novas tecnologias. Meu objetivo é seguir evoluindo como desenvolvedor, contribuindo para projetos significativos e, quem sabe, inspirar outras pessoas a também se apaixonarem por esse universo.</p>
 <br/>
 <br/>
 
@@ -44,7 +43,8 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e ensino a cria
 <br/>
 
 
-## 🤖 Linguagens e Tecnologias que domino:
+## 🤖 domino
+ Linguagens e Tecnologias que domino:
 
 <img 
     align="left" 
@@ -114,7 +114,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e ensino a cria
 <br>
 <br>
 <br>
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">entre em contato comigo!</h3>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/vitorkp12/)
 
