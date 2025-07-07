@@ -8,16 +8,15 @@
 
   <ul style="list-style: none; padding: 0; text-align: center; margin-top: 30px;">
     <li style="margin: 10px 0;">
-      📧 <a href="mailto:seuemail@example.com" target="_blank">seuemail@example.com</a>
+      📧 <a href="mailto:seuemail@example.com" target="_blank">vitorkp12@gmail.com</a>
     </li>
-    <li style="margin: 10px 0;">
-      💼 <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">LinkedIn</a>
-    </li>
-    <li style="margin: 10px 0;">
-      🐱 <a href="https://github.com/seuusuario" target="_blank">GitHub</a>
-    </li>
-    <li style="margin: 10px 0;">
-      📸 <a href="https://www.instagram.com/seuusuario" target="_blank">Instagram</a>
-    </li>
-  </ul>
+<br>
+  <li>
+      <p>
+          <ul>
+
+ [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/vitorkp12/)
+        </li>
+    </p>
+</ul>
 </section>
