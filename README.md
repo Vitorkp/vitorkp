@@ -44,7 +44,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e ensino a cria
 <br/>
 
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias que domino:
 
 <img 
     align="left" 
