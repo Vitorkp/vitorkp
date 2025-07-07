@@ -114,7 +114,6 @@
 <br>
 <br>
 <br>
-<h3 align="left">entre em contato comigo!</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/vitorkp12/)
+
 
