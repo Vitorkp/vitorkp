@@ -109,7 +109,11 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e ensino a cria
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorkp&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <h3 align="left">Connect with me!</h3>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/vitorkp12/)
