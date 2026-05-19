@@ -6,7 +6,7 @@
 <br/>
 
 ## ✍ Estudando
- estou aprendendo linguagens como: <br/>
+ estou estudando linguagens como: <br/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -25,11 +25,11 @@
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="python" 
+    title="python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -64,11 +64,11 @@
 />
 <img 
     align="left" 
-    alt="figma"
-    title="figma" 
+    alt="php"
+    title="php" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
 <img 
