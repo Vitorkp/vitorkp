@@ -37,12 +37,12 @@ Meu objetivo é construir uma carreira como **Desenvolvedor Front-end**, evoluin
 
 Atualmente estou aprofundando meus conhecimentos em:
 
+- 🟨 Javascript
 - ⚛️ React
 - 🔥 Firebase
 - 🚀 Node.js
 - 📡 APIs REST
 - 🗄️ Banco de Dados
-- 🎨 UI/UX Design
 - 🤖 Inteligência Artificial aplicada ao desenvolvimento
 
 Meu foco é evoluir continuamente para atuar como **Desenvolvedor Front-end** e, futuramente, como **Desenvolvedor Full Stack**, construindo aplicações modernas, escaláveis e com excelente experiência para o usuário.
