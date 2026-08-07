@@ -51,9 +51,14 @@ Meu foco é evoluir continuamente para atuar como **Desenvolvedor Front-end** e,
 
 ## 📌 Projetos em destaque
 
-- 📘 **StudyOS** — Plataforma inteligente de estudos com Inteligência Artificial para geração automática de resumos, mapas mentais, flashcards e planos de revisão.
-- 🌲 **Florestal Pinus** — Site institucional desenvolvido em parceria para uma serraria, com foco na apresentação dos serviços e fortalecimento da presença digital.
-- 💼 **Projetos Freelance** — Desenvolvimento de websites e aplicações sob demanda para clientes reais.
+- 📘 **[StudyOS](https://github.com/Vitorkp/studyos)**  
+  Plataforma inteligente de estudos com Inteligência Artificial para geração automática de resumos, mapas mentais, flashcards e planos de revisão.
+
+- 🌲 **[Florestal Pinus](https://github.com/Vitorkp/site-serraria)**  
+  Site institucional desenvolvido em parceria para uma serraria, com foco na apresentação dos serviços e fortalecimento da presença digital.
+
+- 💼 **Projetos Freelance**  
+  Desenvolvimento de websites e aplicações sob demanda para clientes reais.
 
 ---
 
