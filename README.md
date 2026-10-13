@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Vitor Kannã 👋</h1>
 
 <p align="center">
-  Desenvolvedor Web 
+  Desenvolvedor Web | Full-Stack
 </p>
 
 ---
