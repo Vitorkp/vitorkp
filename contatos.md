@@ -8,7 +8,7 @@
 
   <ul style="list-style: none; padding: 0; text-align: center; margin-top: 30px;">
     <li style="margin: 10px 0;">
-      📧 <a href="mailto:seuemail@example.com" target="_blank">vitorkp12@gmail.com</a>
+      📧 <a href="mailto:seuemail@example.com" target="_blank">kannavitor@gmail.com</a>
     </li>
 <br>
   <li>
