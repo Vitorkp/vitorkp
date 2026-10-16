@@ -61,7 +61,7 @@ Meu foco é evoluir continuamente para atuar como **Desenvolvedor Front-end** e,
 
 ## 📫 Contato
 
-- 📧 **Email:** vitorkp12@gmail.com
+- 📧 **Email:** kannavitor@gmail.com
 
 ---
 
