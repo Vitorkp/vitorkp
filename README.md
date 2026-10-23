@@ -43,21 +43,21 @@ Hoje meu foco é **Front-end**, e estou expandindo para o back-end para atuar co
 
 ## 📌 Projetos em destaque
 
-### 📘 [StudyOS](https://github.com/Vitorkp/studyos)
+###  [StudyOS](https://github.com/Vitorkp/studyos)
 Plataforma de estudos com IA que gera resumos, mapas mentais, flashcards e planos de revisão automaticamente.
 **Stack:** <!-- 👉 ex.: JavaScript, Node.js, API de IA -->
 **Demo:** <!-- 👉 [ver online](link) -->
 
-### 🌲 [ PagueProf ](https://github.com/Vitorkp/PagueProf)
+###  [ PagueProf ](https://github.com/Vitorkp/PagueProf)
 Plataforma para auxiliar professores autônomos no gerenciamento de alunos, aulas e pagamentos.
 **Stack:** PHP, HTML, CSS, JavaScript e MySQL
 **Demo:** <!-- 👉 [ver online](link do site no ar) -->
 
-### 🚗 [Site-Carros-PHP](https://github.com/Vitorkp/Site-Carros-PHP)
+###  [Site-Carros-PHP](https://github.com/Vitorkp/Site-Carros-PHP)
 Sistema de controle de estoque de veículos.
 **Stack:** PHP, HTML, CSS, JavaScript
 
-### 🧠 [Leetcode-JS](https://github.com/Vitorkp/Leetcode-JS)
+###  [Leetcode-JS](https://github.com/Vitorkp/Leetcode-JS)
 Resolução de problemas de algoritmos e lógica em JavaScript.
 
 ---
