@@ -16,7 +16,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac-RS** (5º semestre). Construo interfaces responsivas e focadas na experiência do usuário, e já levei projetos de **clientes reais** do levantamento de requisitos até a entrega.
 
-Hoje meu foco é **Front-end**, e estou expandindo para o back-end para atuar como Full Stack.
+Atualmente sou desenvolvedor **Front-end**, e estou expandindo para o back-end para atuar como Full Stack.
 
 ---
 
@@ -45,17 +45,16 @@ Hoje meu foco é **Front-end**, e estou expandindo para o back-end para atuar co
 
 ###  [StudyOS](https://github.com/Vitorkp/studyos)
 Plataforma de estudos com IA que gera resumos, mapas mentais, flashcards e planos de revisão automaticamente.
-**Stack:** <!-- 👉 ex.: JavaScript, Node.js, API de IA -->
-**Demo:** <!-- 👉 [ver online](link) -->
+
 
 ###  [ PagueProf ](https://github.com/Vitorkp/PagueProf)
-Plataforma para auxiliar professores autônomos no gerenciamento de alunos, aulas e pagamentos.
-**Stack:** PHP, HTML, CSS, JavaScript e MySQL
+Plataforma para auxiliar professores autônomos no gerenciamento de alunos, aulas e pagamentos.<br>
+**Stack:** PHP, HTML, CSS, JavaScript e MySQL.
 **Demo:** <!-- 👉 [ver online](link do site no ar) -->
 
-###  [Site-Carros-PHP](https://github.com/Vitorkp/Site-Carros-PHP)
-Sistema de controle de estoque de veículos.
-**Stack:** PHP, HTML, CSS, JavaScript
+###  [ Florestal Pinus ](https://github.com/Vitorkp/site-serraria)
+Site institucional e funcional para uma serraria, com foco em visibilidade internacional e facilidade em solicitação de produtos.<br>
+**Stack:** PHP, HTML, CSS, JavaScript e MySQL.
 
 ###  [Leetcode-JS](https://github.com/Vitorkp/Leetcode-JS)
 Resolução de problemas de algoritmos e lógica em JavaScript.
