@@ -49,12 +49,12 @@ Plataforma de estudos com IA que gera resumos, mapas mentais, flashcards e plano
 
 ###  [ PagueProf ](https://github.com/Vitorkp/PagueProf)
 Plataforma para auxiliar professores autônomos no gerenciamento de alunos, aulas e pagamentos.<br>
-**Stack:** PHP, HTML, CSS, JavaScript e MySQL.
-**Demo:** <!-- 👉 [ver online](link do site no ar) -->
+**Stack:** PHP, HTML, CSS, JavaScript e MySQL.<br>
+ <!-- 👉 [ver online](link do site no ar) -->
 
 ###  [ Florestal Pinus ](https://github.com/Vitorkp/site-serraria)
 Site institucional e funcional para uma serraria, com foco em visibilidade internacional e facilidade em solicitação de produtos.<br>
-**Stack:** PHP, HTML, CSS, JavaScript e MySQL.
+**Stack:** PHP, HTML, CSS, JavaScript e MySQL.<br>
 
 ###  [Leetcode-JS](https://github.com/Vitorkp/Leetcode-JS)
 Resolução de problemas de algoritmos e lógica em JavaScript.
