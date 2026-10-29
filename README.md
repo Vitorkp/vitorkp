@@ -47,7 +47,7 @@ Atualmente sou desenvolvedor **Front-end**, e estou expandindo para o back-end p
 Plataforma de estudos com IA que gera resumos, mapas mentais, flashcards e planos de revisão automaticamente.
 
 
-###  [ PagueProf ](https://github.com/Vitorkp/PagueProf)
+###  [ PagueProf ](https://github.com/632320081/PagueProf)
 Plataforma para auxiliar professores autônomos no gerenciamento de alunos, aulas e pagamentos.<br>
 **Stack:** PHP, HTML, CSS, JavaScript e MySQL.<br>
  <!-- 👉 [ver online](link do site no ar) -->
